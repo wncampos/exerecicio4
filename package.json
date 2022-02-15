@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/wncampos.lwc-kzna75gc-fork-kzndhqnv",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve BWHisp4O4UW2QyL1Tzrj --open"
+  }
+}
